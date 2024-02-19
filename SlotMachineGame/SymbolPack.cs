@@ -1,9 +1,9 @@
-namespace MyConsoleApp;
+namespace SlotMachine;
 using System;
 using System.Collections.Generic;
 
 
-public class SymbolPack
+internal class SymbolPack
 {
     private static SymbolPack? instance;
     private static readonly Dictionary<string, Func<Symbol>> SYMBOL_OBJECTS = new Dictionary<string, Func<Symbol>>

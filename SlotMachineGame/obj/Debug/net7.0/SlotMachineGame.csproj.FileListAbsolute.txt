@@ -1,0 +1,11 @@
+C:\Users\asafb\Downloads\Javascript.SlotMachine.OO-master\C# .Net SlotMachine\SlotMachineGame\bin\Debug\net7.0\SlotMachineGame.deps.json
+C:\Users\asafb\Downloads\Javascript.SlotMachine.OO-master\C# .Net SlotMachine\SlotMachineGame\bin\Debug\net7.0\SlotMachineGame.dll
+C:\Users\asafb\Downloads\Javascript.SlotMachine.OO-master\C# .Net SlotMachine\SlotMachineGame\bin\Debug\net7.0\SlotMachineGame.pdb
+C:\Users\asafb\Downloads\Javascript.SlotMachine.OO-master\C# .Net SlotMachine\SlotMachineGame\obj\Debug\net7.0\SlotMachineGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asafb\Downloads\Javascript.SlotMachine.OO-master\C# .Net SlotMachine\SlotMachineGame\obj\Debug\net7.0\SlotMachineGame.AssemblyInfoInputs.cache
+C:\Users\asafb\Downloads\Javascript.SlotMachine.OO-master\C# .Net SlotMachine\SlotMachineGame\obj\Debug\net7.0\SlotMachineGame.AssemblyInfo.cs
+C:\Users\asafb\Downloads\Javascript.SlotMachine.OO-master\C# .Net SlotMachine\SlotMachineGame\obj\Debug\net7.0\SlotMachineGame.csproj.CoreCompileInputs.cache
+C:\Users\asafb\Downloads\Javascript.SlotMachine.OO-master\C# .Net SlotMachine\SlotMachineGame\obj\Debug\net7.0\SlotMachineGame.dll
+C:\Users\asafb\Downloads\Javascript.SlotMachine.OO-master\C# .Net SlotMachine\SlotMachineGame\obj\Debug\net7.0\refint\SlotMachineGame.dll
+C:\Users\asafb\Downloads\Javascript.SlotMachine.OO-master\C# .Net SlotMachine\SlotMachineGame\obj\Debug\net7.0\SlotMachineGame.pdb
+C:\Users\asafb\Downloads\Javascript.SlotMachine.OO-master\C# .Net SlotMachine\SlotMachineGame\obj\Debug\net7.0\ref\SlotMachineGame.dll

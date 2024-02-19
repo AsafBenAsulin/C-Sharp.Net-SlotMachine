@@ -1,6 +1,6 @@
-﻿namespace MyConsoleApp;
+﻿namespace SlotMachine;
 
-public class Symbol
+internal class Symbol
 {
     public string LogicalValue { get; }
     public string DisplayValue { get; }

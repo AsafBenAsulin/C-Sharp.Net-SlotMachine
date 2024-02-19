@@ -6,14 +6,6 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v7.0": {
-      "MyConsoleApp/1.0.0": {
-        "dependencies": {
-          "SlotMachineGame": "1.0.0"
-        },
-        "runtime": {
-          "MyConsoleApp.dll": {}
-        }
-      },
       "SlotMachineGame/1.0.0": {
         "runtime": {
           "SlotMachineGame.dll": {}
@@ -22,11 +14,6 @@
     }
   },
   "libraries": {
-    "MyConsoleApp/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
     "SlotMachineGame/1.0.0": {
       "type": "project",
       "serviceable": false,

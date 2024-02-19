@@ -1,9 +1,9 @@
-﻿namespace MyConsoleApp;
+﻿namespace SlotMachine;
 
 using System;
 using System.Collections.Generic;
 
-public class SymbolFactory
+internal class SymbolFactory
 {
     private static readonly Dictionary<string, string> Emojis = new Dictionary<string, string>
     {
@@ -48,7 +48,7 @@ public class SymbolFactory
 }
 
 
-public class EmojiSymbol : Symbol
+internal class EmojiSymbol : Symbol
 {
     public EmojiSymbol(string logicalValue, string displayValue, string? description = null)
         : base(logicalValue, displayValue, description)
@@ -56,7 +56,7 @@ public class EmojiSymbol : Symbol
     }
 }
 
-public class RegularSymbol : Symbol
+internal class RegularSymbol : Symbol
 {
     public RegularSymbol(string logicalValue, string? description = null)
         : base(logicalValue, " " + logicalValue, description)

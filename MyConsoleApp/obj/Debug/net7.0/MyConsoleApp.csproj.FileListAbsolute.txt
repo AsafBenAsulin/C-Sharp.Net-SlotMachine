@@ -12,3 +12,7 @@ C:\Users\asafb\Downloads\Javascript.SlotMachine.OO-master\C# .Net SlotMachine\My
 C:\Users\asafb\Downloads\Javascript.SlotMachine.OO-master\C# .Net SlotMachine\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.pdb
 C:\Users\asafb\Downloads\Javascript.SlotMachine.OO-master\C# .Net SlotMachine\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.genruntimeconfig.cache
 C:\Users\asafb\Downloads\Javascript.SlotMachine.OO-master\C# .Net SlotMachine\MyConsoleApp\obj\Debug\net7.0\ref\MyConsoleApp.dll
+C:\Users\asafb\Downloads\Javascript.SlotMachine.OO-master\C# .Net SlotMachine\MyConsoleApp\bin\Debug\net7.0\SlotMachineGame.dll
+C:\Users\asafb\Downloads\Javascript.SlotMachine.OO-master\C# .Net SlotMachine\MyConsoleApp\bin\Debug\net7.0\SlotMachineGame.pdb
+C:\Users\asafb\Downloads\Javascript.SlotMachine.OO-master\C# .Net SlotMachine\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.csproj.AssemblyReference.cache
+C:\Users\asafb\Downloads\Javascript.SlotMachine.OO-master\C# .Net SlotMachine\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.csproj.CopyComplete
